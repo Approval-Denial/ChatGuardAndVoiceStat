@@ -14,6 +14,7 @@ Kendimi geliştirmek adına yaptığım bu projeyi yakın zamanda paylaşmayı d
 4. botun komutlarından bazılarının SS'lerini aşağıya bırakıcam en yakın zaman için de projeyide paylaşıp yeni şeyler yapmaya başlıcam
 <br>
 Sunucular arası üye sıralaması Slash komutlar arasında en sevdiğim komut
+
 ![Approval.](https://cdn.discordapp.com/attachments/1011397607685374033/1025322722462531654/unknown.png)
 yine yapabilirmiyim diye düşünürken yaptığım ses sıralaması 
 ![Approval.](https://cdn.discordapp.com/attachments/1011397607685374033/1025322722147967006/unknown.png)
