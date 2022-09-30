@@ -1,7 +1,7 @@
 ![Approval.](https://cdn.discordapp.com/attachments/1011397607685374033/1025319799041044521/unknown.png)
 # Chat Guard And Voice Stat
 
-Kendimi geliştirmek adına yaptığım bu projeyi yakın zamanda paylaşmayı düşünüyorum sizede/yazılıma yeni başlayan arkadaşlarında işine yarıyabilir.
+Kendimi geliştirmek adına yaptığım bu projeyi yakın zamanda paylaşmayı düşünüyorum sizede/yazılıma yeni başlayan arkadaşlarında işine yarıyabilir.<br>
  <img src="https://komarev.com/ghpvc/?username=ChatGuardAndVoiceStat&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/ChatGuardAndVoiceStat" />
 - Botun Özellikleri bahsediyim biraz
 
