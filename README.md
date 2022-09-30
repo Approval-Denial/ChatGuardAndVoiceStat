@@ -2,7 +2,7 @@
 # Chat Guard And Voice Stat
 
 Kendimi geliştirmek adına yaptığım bu projeyi yakın zamanda paylaşmayı düşünüyorum sizede/yazılıma yeni başlayan arkadaşlarında işine yarıyabilir.
- <img src="https://komarev.com/ghpvc/?username=Approval-Denial/ChatGuardAndVoiceStat&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/ChatGuardAndVoiceStat" />
+ <img src="https://komarev.com/ghpvc/?username=ChatGuardAndVoiceStat&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/ChatGuardAndVoiceStat" />
 - Botun Özellikleri bahsediyim biraz
 
 1. Küfür/Link/Büyük harf filtresi mevcut ayarlanabilir şekilde limit aşıldığında ayarlanan süre boyunca kullanıcıyı zaman aşımına maruz bırakıyor.
