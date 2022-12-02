@@ -1,7 +1,7 @@
 ![Approval.](https://cdn.discordapp.com/attachments/1011397607685374033/1025319799041044521/unknown.png)
 # Chat Guard And Voice Stat
 <h2>Güncellemerden haberder olmak için discord sunucusuna gelebilirsiniz.</h2>
-<h3>Aynı zamanda discord sunucusunu priv olarakta kullanıyorum gelip rol alabilirsiniz veya bizimle birlikte oyunlar oynayıp sohbet edebilirsiniz.</h3>
+<h3>Bottan sıkıldığım için bu alt yapıyı yakın zamanda paylasicam ve yenisini yapıcam 30 STAR gelirse direk dosyaları yüklüyorum.</h3>
 Kendimi geliştirmek adına yaptığım bu projeyi yakın zamanda paylaşmayı düşünüyorum sizede/yazılıma yeni başlayan arkadaşlarında işine yarıyabilir.<br>
 - Ziyaretçi Sayısı: <img src="https://komarev.com/ghpvc/?username=ChatGuardAndVoiceStat&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/ChatGuardAndVoiceStat" />
 - Star ve Forkte atın bi zahmet
